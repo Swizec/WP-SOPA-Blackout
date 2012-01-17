@@ -11,8 +11,7 @@
     <div class='container'>
         <h1><?php _e( 'Stop United States Censorship' ); ?></h1>
         <p>Protesting SOPA today. Didn't have time to read an academic paper for Science Wednesday.</p>
-        <p>No but seriously guys, this SOPA issue is kind of important so if you're one of my US readers, please do something about it.</p>
-        <p>kthxbai :)</p>
+        <p>No but seriously guys, this SOPA issue is kind of important so if you're from the US, please do something about it. Thanks!</p>
         <p><a href="http://americancensorship.org/">Learn more</a>.</p>
         
         <iframe src="http://player.vimeo.com/video/31100268?byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
