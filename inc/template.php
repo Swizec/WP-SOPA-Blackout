@@ -10,7 +10,9 @@
 <body <?php body_class( 'sopa-blackout' ); ?> id="sopa-page">
     <div class='container'>
         <h1><?php _e( 'Stop United States Censorship' ); ?></h1>
-        <p><?php _e( 'The US Congress is about to pass internet censorship, even though the vast majority of Americans are opposed. We need to kill the bill - PIPA in the Senate and SOPA in the House - to protect our rights to free speech, privacy, and prosperity.' ); ?></p>
+        <p>Protesting SOPA today. Didn't have time to read an academic paper for Science Wednesday.</p>
+        <p>No but seriously guys, this SOPA issue is kind of important so if you're one of my US readers, please do something about it.</p>
+        <p>kthxbai :)</p>
         <p><a href="http://americancensorship.org/">Learn more</a>.</p>
         
         <iframe src="http://player.vimeo.com/video/31100268?byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
